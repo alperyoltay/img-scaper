@@ -3,7 +3,7 @@ from os import system
 import threading
 from dhooks import Webhook
 
-hook = Webhook('YOUR WEBHOOK')
+hook = Webhook('YOU WEBHOOK')
 threads = 300
 
 def scrape():
